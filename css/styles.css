@@ -11048,7 +11048,7 @@ html {
 }
 
 .masthead {
-  background-image: url('SIGNET_1/Data Asrama Putri Pondok/masjid1.jpg');
+  background-image: url('/masjid1.jpg');
   background-size: cover;
   -webkit-text-fill-color: #212529;
   background-position: center;

@@ -11048,7 +11048,7 @@ html {
 }
 
 .masthead {
-  background-image: url('/masjid1.jpg');
+  background-image: url('./masjid1.JPG');
   background-size: cover;
   -webkit-text-fill-color: #212529;
   background-position: center;
